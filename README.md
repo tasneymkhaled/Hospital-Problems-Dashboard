@@ -1,30 +1,38 @@
-# Healthcare Provider Data Analysis
+# Hospital Problems Dashboard
 
 ## Project Overview
-This project focuses on analyzing healthcare provider data using Microsoft Power BI to explore the dataset and present findings through data visualization.
+An interactive healthcare analytics dashboard built using Microsoft Power BI to explore hospital-related data from executive, financial, and patient demographic perspectives.
 
-## Objectives
-- Explore and understand the healthcare dataset.
-- Analyze the available data to identify meaningful patterns.
-- Present findings through clear and interactive visualizations.
-- Support data-driven decision-making.
+## Dashboard Pages
+
+### 1. Executive Overview
+Provides a high-level overview of the available healthcare data to support a quick understanding of overall performance.
+
+### 2. Financial Overview
+Focuses on the financial aspects of the dataset and helps explore healthcare-related financial metrics.
+
+### 3. Patient Demographics
+Explores patient demographic information to better understand the characteristics and distribution of the patients represented in the dataset.
 
 ## Tools Used
 - Microsoft Power BI
 - Power Query (if used)
 - DAX (if used)
 
-## Project Process
-- Data exploration and preparation.
-- Data transformation and cleaning, where needed.
-- Data modeling and visualization, where applicable.
-- Dashboard development and analysis.
-
-## Key Insights
-Key findings will be added based on the actual analysis and dashboard results.
-
-## Project Files
-- Power BI report: `Healthcare Provide Dataset-Project.pbix`
+## Project Objectives
+- Present healthcare data through an interactive dashboard.
+- Explore financial and patient demographic information.
+- Provide an executive-level view of the available data.
+- Support data exploration and informed decision-making.
 
 ## Skills Demonstrated
-Data Analysis, Data Visualization, Dashboard Design, and Business Intelligence.
+- Data Visualization
+- Dashboard Design
+- Healthcare Data Analysis
+- Business Intelligence
+
+## Project File
+`Hospital Problems.pbix`
+
+## Key Insights
+Key findings can be added here based on the actual dashboard analysis.
